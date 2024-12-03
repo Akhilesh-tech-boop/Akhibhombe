@@ -136,8 +136,4 @@ Sales-Data-Analysis/
 ├── sales_analysis.ipynb        # Jupyter notebook with code and analysis
 ├── README.md                   # Overview of the project and analysis
 └── .gitignore                  # To exclude unnecessary files (e.g., data files)
-Step 6: Push to GitHub
-Initialize a git repository: git init
-Add the files: git add .
-Commit the changes: git commit -m "Initial commit of sales data analysis"
-Create a new repository on GitHub and follow the instructions to push the code.
+
