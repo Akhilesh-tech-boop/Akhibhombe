@@ -17,7 +17,6 @@ You can upload the data as a CSV file (sales_data.csv), which includes fields li
 Here's an example of what the sales_data.csv could look like:
 
 csv
-Copy code
 Date,Region,Product Category,Units Sold,Unit Price,Revenue,Payment Type
 2024-01-01,North,Electronics,10,100,1000,Credit Card
 2024-01-01,South,Clothing,15,50,750,Cash
@@ -29,7 +28,6 @@ Step 2: Create Jupyter Notebook (sales_analysis.ipynb)
 Inside the Jupyter Notebook (sales_analysis.ipynb), we will perform several steps to clean and analyze the sales data.
 
 python
-Copy code
 # Importing libraries
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -129,7 +127,6 @@ Step 5: GitHub Repository Structure
 Here's a potential folder structure for your GitHub repository:
 
 bash
-Copy code
 Sales-Data-Analysis/
 │
 ├── sales_data.csv              # The raw sales data
